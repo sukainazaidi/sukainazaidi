@@ -1,6 +1,6 @@
-- Hello, my name s sukaina Zaidi! I'm an undergrad student at the Unversity of Central Florida studying Information Technology.
+- Hello, my name Sukaina Zaidi! I'm an undergrad student at the Unversity of Central Florida studying Information Technology.
 - I'm particularly interested in the fields of Machine Learning/Artificial Intelligence and Software Engineering.
-- I'm very excited to learn new technologies and find ways in which in I can apply my skills to make a positive contribution.
+- I'm very excited to learn new technologies and find ways in which in I can apply my skills to make a positive contribution to society.
   
 
 <!---
