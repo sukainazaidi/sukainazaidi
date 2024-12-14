@@ -8,7 +8,7 @@ AbtGlobal Fellowship: This project leverages advanced AI methodologies to analyz
 
 [Does weather impact COVID-19 rates?](https://github.com/iiqueenizzy13/AbtGlobal_1B)
 
-
+Epileptic Seizure Preventions and Early Response
 <!---
 sukainazaidi/sukainazaidi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
